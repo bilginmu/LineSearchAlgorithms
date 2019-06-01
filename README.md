@@ -25,5 +25,5 @@ The output will looks like this
     Minimum point of function : x = -1.895494, f(x) = 2.316808
 ```
 # Conclusion
-    The function is unimodal means just one local minimum point of function at this interval. If function is not unimodal, search algorithms could be stuck any local minimizer of function. The plot of the function in the given codes:
-![plot](plot.png)
+The function is unimodal means just one local minimum point of function at this interval. If function is not unimodal, search algorithms could be stuck any local minimizer of function. The plot of the function in the given codes:
+![plot](figures/plot.png)
